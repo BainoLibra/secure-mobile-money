@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 body{
     background-color: #ffffff;
@@ -39,4 +39,104 @@ body{
 }
 .log h4{
     color: #e7dcd9;
+}
+/* cards */
+.one{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.one .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.two{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.two .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.three{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.three .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.four{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.four .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.five{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.five .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.six{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.six .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.seven{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 10px;
+    width: 30vw;
+    height: 50vh;
+    margin: 15px;
+}
+.seven .content-1{
+    text-align: center;
+    padding: 5dvh;
+}
+.card-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
