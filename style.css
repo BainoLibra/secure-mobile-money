@@ -19,7 +19,24 @@ body{
 .button-1{
     background-color: #3c5c95;
     border: 0px;
-    border-radius: 3px;
+    border-radius: 5px;
     padding: 0.4rem;
-    width: 100vw;
+    width: 90vw;
+}
+.button-1 p{
+    text-align: justify;
+    margin: 8px;
+    color: #e7dcd9;
+}
+.secure{
+    margin: 10px;
+}
+.secure h2{
+    color: #e7dcd9;
+}
+.log{
+    margin: 10px;
+}
+.log h4{
+    color: #e7dcd9;
 }
