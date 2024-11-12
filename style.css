@@ -10,7 +10,7 @@ body{
     align-content: center;
     background-color: #f5f6fa;
     border: 0px;
-    margin: 20px;
+    margin: 30px;
 }
 .contain{
     background-color: #274c8e;
@@ -40,6 +40,10 @@ body{
 .log h4{
     color: #e7dcd9;
 }
+/* content */
+.info{
+    margin: 15px;
+}
 /* cards */
 .one{
     background-color: #ffffff;
@@ -48,10 +52,11 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .one .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .two{
     background-color: #ffffff;
@@ -60,10 +65,11 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .two .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .three{
     background-color: #ffffff;
@@ -72,10 +78,11 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .three .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .four{
     background-color: #ffffff;
@@ -84,10 +91,11 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .four .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .five{
     background-color: #ffffff;
@@ -96,10 +104,11 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .five .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .six{
     background-color: #ffffff;
@@ -108,22 +117,24 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .six .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 5rem;
 }
 .seven{
     background-color: #ffffff;
     border: 0px;
     border-radius: 10px;
-    width: 30vw;
-    height: 50vh;
+    width: 100vw;
+    height: 40vh;
     margin: 15px;
+    box-shadow: 8px 8px 15px 1px;
 }
 .seven .content-1{
     text-align: center;
-    padding: 5dvh;
+    padding: 3rem;
 }
 .card-1{
     display: flex;
@@ -139,4 +150,27 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    margin-bottom: 400px;
+}
+/* button */
+.one button{
+    margin: 20px;
+}
+.two button{
+    margin: 20px;
+}
+.three button{
+    margin: 20px;
+}
+.four button{
+    margin: 20px;
+}
+.five button{
+    margin: 20px;
+}
+.six button{
+    margin: 20px;
+}
+.seven button{
+    margin: 20px;
 }
