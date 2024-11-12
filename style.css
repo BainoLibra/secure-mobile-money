@@ -19,9 +19,9 @@ body{
 .button-1{
     background-color: #3c5c95;
     border: 0px;
-    border-radius: 5px;
+    border-radius: 10px;
     padding: 0.4rem;
-    width: 90vw;
+    width: 88vw;
 }
 .button-1 p{
     text-align: justify;
@@ -156,6 +156,7 @@ body{
 .one button{
     margin: 20px;
     background-color: #4caf50;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -163,6 +164,7 @@ body{
 .two button{
     margin: 20px;
     background-color: #2196f3;
+    color: white;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -170,6 +172,7 @@ body{
 .three button{
     margin: 20px;
     background-color: #9c27b0;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -177,6 +180,7 @@ body{
 .four button{
     margin: 20px;
     background-color: #ff9800;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -184,6 +188,7 @@ body{
 .five button{
     margin: 20px;
     background-color: #00bcd4;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -191,6 +196,7 @@ body{
 .six button{
     margin: 20px;
     background-color: #607d8b;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
@@ -198,6 +204,7 @@ body{
 .seven button{
     margin: 20px;
     background-color: #f44336;
+    color: #ffffff;
     border: 0px;
     border-radius: 5px;
     padding: 0.5rem;
