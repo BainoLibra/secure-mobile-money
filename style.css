@@ -44,6 +44,14 @@ body{
 .info{
     margin: 15px;
 }
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
+
 /* cards */
 .one{
     background-color: #ffffff;
@@ -52,19 +60,13 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .one .content-1{
     text-align: center;
     padding: 4rem;
 }
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 1,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
-}
+
 .two{
     background-color: #ffffff;
     border: 0px;
@@ -72,7 +74,7 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .two .content-1{
     text-align: center;
@@ -85,7 +87,7 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .three .content-1{
     text-align: center;
@@ -98,7 +100,7 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .four .content-1{
     text-align: center;
@@ -111,7 +113,7 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .five .content-1{
     text-align: center;
@@ -124,7 +126,7 @@ body{
     width: 30vw;
     height: 50vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .six .content-1{
     text-align: center;
@@ -137,7 +139,7 @@ body{
     width: 100vw;
     height: 40vh;
     margin: 15px;
-    box-shadow: 8px 8px 15px 1px;
+    /* box-shadow: 8px 8px 15px 1px; */
 }
 .seven .content-1{
     text-align: center;
